@@ -1,0 +1,10 @@
+node_modules
+.pnpm-store
+
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+*.tfvars.json
+.terraform/
+.terraform.lock.hcl
